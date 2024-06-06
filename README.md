@@ -7,9 +7,9 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
   </p>
- - skills
-   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,py,linux,cloudflare,c	" />
-  </a>
-</p>
+- 🛠 Skills
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,py,linux,cloudflare,c" alt="Skills" />
+    </a>
+  </p>
