@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Fundamentals of networks
 - 📫 How to reach me
   <p align="center">
-    <a href="https://www.linkedin.com/in/a-ghamdi"> 
+    <a href="https://www.linkedin.com/in/a-ghamdi" target="_blank"> 
  <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
